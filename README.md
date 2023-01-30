@@ -7,5 +7,5 @@
 * https://youtu.be/aTu2-2A-QbM
 * Week 2 Videos
 * https://youtu.be/KHAwDlN0pCo
-*Week 3 videos
+* Week 3 videos
 * https://youtu.be/ShZw2Y7np14
