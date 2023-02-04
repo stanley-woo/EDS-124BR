@@ -10,3 +10,5 @@
 * Week 3 videos
 * https://youtu.be/RLcODC3u7hI
 * https://youtu.be/aiHpyhCG4uU
+* Week 4 videos
+* https://youtu.be/fjioBOKZsAU
