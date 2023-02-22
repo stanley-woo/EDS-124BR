@@ -16,3 +16,5 @@
 * https://youtu.be/bhGrMLfCdaQ
 * Week 6 videos
 * https://www.youtube.com/watch?v=6k9bw9K0A9Y
+* Week 7 videos
+* https://youtu.be/qOQ2AZyOx68
