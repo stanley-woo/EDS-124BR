@@ -18,3 +18,5 @@
 * https://www.youtube.com/watch?v=6k9bw9K0A9Y
 * Week 7 videos
 * https://youtu.be/qOQ2AZyOx68
+* Week 8 Videos
+* https://youtu.be/Fw-QBXM1Gkk
