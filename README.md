@@ -20,3 +20,5 @@
 * https://youtu.be/qOQ2AZyOx68
 * Week 8 Videos
 * https://youtu.be/Fw-QBXM1Gkk
+* Week 9 Videos
+* https://youtu.be/-HABw4FOpGg
