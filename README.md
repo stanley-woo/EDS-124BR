@@ -22,3 +22,5 @@
 * https://youtu.be/Fw-QBXM1Gkk
 * Week 9 Videos
 * https://youtu.be/-HABw4FOpGg
+* Week 10 Videos
+* https://youtu.be/4UFCjSuEzAw
